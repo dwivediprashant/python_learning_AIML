@@ -25,3 +25,5 @@ info.update({
 })
 
 print(info)
+
+empty_dict={} # empty dictionary declaration
