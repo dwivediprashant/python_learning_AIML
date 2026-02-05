@@ -1,0 +1,42 @@
+[
+  {
+    "id": "001",
+    "name": "Rahul ",
+    "age": "23",
+    "email": "rahul@gmail.com",
+    "salary": "35000",
+    "city": "Bhopal"
+  },
+  {
+    "id": 2,
+    "name": "  anita",
+    "age": null,
+    "email": "anita@@gmail.com",
+    "salary": 42000,
+    "city": "bhopal "
+  },
+  {
+    "id": "003",
+    "name": "VIKAS",
+    "age": "twenty five",
+    "email": "",
+    "salary": "NA",
+    "city": "Indore"
+  },
+  {
+    "id": 4,
+    "name": null,
+    "age": "29",
+    "email": "vikas@gmail.com ",
+    "salary": 38000,
+    "city": null
+  },
+  {
+    "id": "005",
+    "name": "Neha",
+    "age": 22,
+    "email": "neha@gmail.com",
+    "salary": "-",
+    "city": "INDORE"
+  }
+]
